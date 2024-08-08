@@ -1,6 +1,6 @@
 # Game Mechanics and Logic of my version of Minesweeper
 
-Welcome to **My Minesweeper**, a Python-based implementation of the classic Minesweeper game using Tkinter for the GUI Written based on the principals of object oriented programming.
+a Python-based implementation of the classic Minesweeper game using Tkinter for the GUI Written based on the principals of object oriented programming.
 
 ## Table of Contents
 
