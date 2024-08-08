@@ -1,5 +1,7 @@
 # Game Mechanics and Logic of my version of Minesweeper
 
+Welcome to **My Minesweeper**, a Python-based implementation of the classic Minesweeper game using Tkinter for the GUI Written based on the principals of object oriented programming.
+
 ## Table of Contents
 
 - [Gameplay Overview](#gameplay-overview)
@@ -19,7 +21,7 @@
 
 ## Gameplay Overview
 
-Sep's Minesweeper is a strategy puzzle game where the player aims to clear a grid of cells without triggering hidden mines. The game presents a rectangular grid with a mixture of safe cells and mines. The player interacts with the grid by left-clicking to reveal cells and right-clicking to mark potential mines. The goal is to reveal all safe cells while avoiding mines.
+this is a strategy puzzle game where the player aims to clear a grid of cells without triggering hidden mines. The game presents a rectangular grid with a mixture of safe cells and mines. The player interacts with the grid by left-clicking to reveal cells and right-clicking to mark potential mines. The goal is to reveal all safe cells while avoiding mines.
 
 ## Game Components
 
