@@ -1,6 +1,4 @@
-# Game Mechanics and Logic of Sep's Minesweeper
-
-This document explains how Sep's Minesweeper works, including the gameplay mechanics, the logic behind various features, and the code structure that powers the game.
+# Game Mechanics and Logic of my version of Minesweeper
 
 ## Table of Contents
 
