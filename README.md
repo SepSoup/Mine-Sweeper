@@ -39,6 +39,10 @@ this is a strategy puzzle game where the player aims to clear a grid of cells wi
 - **Mines:** These are the hidden dangers within the grid. If a player clicks on a mine, they lose a life.
 - **Safe Cells:** These cells do not contain mines. When revealed, they either show a number indicating how many adjacent cells contain mines, or they automatically reveal surrounding cells if no adjacent mines are present.
 
+
+<img src="https://github.com/SepSoup/Mine-Sweeper/blob/master/static/cells.png" alt="Game Logic" width="400"/>
+
+
 ### Lives System
 
 - The game features a **lives system** where players start with a set number of lives, defined in `settings.py`.
