@@ -22,6 +22,7 @@ Welcome to **My Minesweeper**, a Python-based implementation of the classic Mine
 ## Gameplay Overview
 
 this is a strategy puzzle game where the player aims to clear a grid of cells without triggering hidden mines. The game presents a rectangular grid with a mixture of safe cells and mines. The player interacts with the grid by left-clicking to reveal cells and right-clicking to mark potential mines. The goal is to reveal all safe cells while avoiding mines.
+<img src="https://raw.githubusercontent.com/SepSoup/Mine-Sweeper/main/static/Maingame" width="400" alt="Main Game">
 
 ## Game Components
 
